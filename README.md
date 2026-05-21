@@ -37,10 +37,6 @@ Open Meteo API → Python → Pandas → CSV → Power BI
 * Severe events were concentrated mainly in specific seasonal periods.
 * Distinct precipitation behaviors were identified between Southern Brazilian states.
 
-## Dashboard Preview
-
-(Insert dashboard screenshots here)
-
 ## Author
 
 Ruan
